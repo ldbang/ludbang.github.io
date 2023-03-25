@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>陆定邦获奖证书</title>
+
+	<style>
+			.image-container {
+		  display: flex; /* 将容器设置为Flexbox布局 */
+		  flex-wrap: wrap; /* 允许内容换行 */
+		  justify-content: center; /* 在容器内居中对齐 */
+		}
+
+		.image-container img {
+		  width: 300px; /* 使图片填充其容器的宽度 */
+		  height: auto; /* 高度自适应以防止变形 */
+		  margin: 5px; /* 添加间距以增加可读性 */
+		  max-width: 300px; /* 设置图片的最大宽度 */
+		}
+	</style>
+</head>
+<body>
+
+	<img src="1全国总决赛-一等奖.png" alt="第1 张图片">
+	<img src="3无人驾驶.png" alt="第2 张图片">
+	<img src="4综合技能大赛三等奖.png" alt="第 3张图片">
+	<img src="5教育机器人比赛.jpg" alt="第4 张图片">
+	<img src="6蓝桥杯程序设计大赛三等 - 副本.jpg" alt="第5 张图片">
+	<img src="7助教证书.jpg" alt="第6 张图片">
+	<img src="信盈8广西大学生人工智能设计大赛三等.PNG达杯比赛" alt="第 7张图片">
+	<img src="9信盈达杯比赛.jpg" alt="第 8张图片">
+	<img src="10机器人应用场景.jpg" alt="第 9张图片">
+	<img src="11成绩单.jpg" alt="第10张图片">
+	<img src="20全国初赛_初赛-三等奖.png" alt="第 11张图片">
+	<img src="21西门子比赛.png" alt="第12 张图片">
+
+</body>
+</html>
